@@ -1,0 +1,2 @@
+# Command-Based-Text-Editor
+Command Based Text Editor enables the user to read, write, and modify the files by using some pre-defined commands.
